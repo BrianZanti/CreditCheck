@@ -8,7 +8,11 @@
 
 # Rubric
 
+<<<<<<< HEAD
 ## Functionality 3
+=======
+## Functionality 2
+>>>>>>> e8ebd7a2b7dca0417893764485c62b2935456b91
 
 Notes:
 
